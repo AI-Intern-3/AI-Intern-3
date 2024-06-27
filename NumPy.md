@@ -1,4 +1,4 @@
-## 1. NumPy
+### 1. NumPy
 
 # Advantages:
 Fundamental package for scientific computing with Python.
@@ -13,7 +13,7 @@ Fourier transforms.
 
 Overview and some examples of how they are applied in mathematics and numerical computations.
 
-### Numerical Computations
+## Numerical Computations
 
 Numerical computations involve algorithms to solve mathematical problems approximately rather than analytically. Here are a few key concepts:
 
