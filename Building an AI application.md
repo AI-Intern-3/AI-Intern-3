@@ -18,6 +18,7 @@ Building an AI application can be a complex process, but here are the general st
 
 9. Monitoring and maintenance: Continuously monitor the performance of your AI application and update the model as needed. Stay informed about new developments in AI to keep your application up-to-date.
 
+```
   Start
     |
     v
@@ -87,6 +88,6 @@ Building an AI application can be a complex process, but here are the general st
     |
     v
    End
-
+```
 
 Remember that building an AI application is a complex and iterative process, so be prepared to experiment, learn, and improve along the way.
